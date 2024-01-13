@@ -4,4 +4,4 @@ This is my new screen
 
 It is hard
 
-[Github](github.com)
+[Github](https://github.com)
